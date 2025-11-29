@@ -1,6 +1,6 @@
 .banner{
     width: 335px;
-    padding-right: 11px;
+    padding-right: 15px;
 }
 body{
     background-color:rgb(254, 237, 237);
@@ -22,8 +22,8 @@ body{
     background-color: #000000;
     display: inline-block;
     padding-left: px;
-    padding-right: %;
-    padding-bottom: 6%;
+    padding-bottom: 3%;
+    overflow-y: hidden;
     
 }
 .options{
@@ -150,8 +150,8 @@ padding-bottom: 5px;
     margin-top: 20px;
     position: fixed;
     background-color:#1e1f21;
-    padding-right: 38px;
-    padding-bottom: px28;
+    padding-right: 5.5%;
+    padding-bottom: 3%;
 }
 
 .bootom-icon{
