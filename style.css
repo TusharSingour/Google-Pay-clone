@@ -1,6 +1,6 @@
 .banner{
     width: 335px;
-    padding-right: 7px;
+    padding-right: 11px;
 }
 body{
     background-color:rgb(254, 237, 237);
@@ -22,8 +22,8 @@ body{
     background-color: #000000;
     display: inline-block;
     padding-left: px;
-    padding-right: 5px;
-    padding-bottom: 105px;
+    padding-right: %;
+    padding-bottom: 6%;
     
 }
 .options{
