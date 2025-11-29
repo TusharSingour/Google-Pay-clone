@@ -1,10 +1,6 @@
-.banner{
-    width: 3px;
-    padding-left: ;
-}
+
 body{
-    background-color:rgb(254, 237, 237);
-    overflow: hidden;
+    background-color:rgb(255, 254, 254);
     
 
 }
@@ -21,10 +17,8 @@ body{
 #container{
     background-color: #000000;
     display: inline-block;
-    padding-right: 3%;
-    padding-left: 3;
-    padding-bottom: 9%
-    
+    padding-bottom: 30px;
+
     ;
     
 }
@@ -152,8 +146,8 @@ padding-bottom: 5px;
     margin-top: 20px;
     position: fixed;
     background-color:#1e1f21;
-    padding-right: 8.5%;
-    padding-bottom: 3%;
+    padding-right: 51.5px;
+    padding-bottom: 10px;
 }
 
 .bootom-icon{
@@ -170,3 +164,7 @@ padding-bottom: 5px;
     padding-left:39px ;
     font-size: 14px;
 }
+
+
+
+        
